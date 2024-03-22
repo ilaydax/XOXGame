@@ -1,4 +1,4 @@
-# *TicTacToeGame*
+# *XOXGame*
 </br>
 Bu proje Q-Learning algoritması ile geliştirilmiş bilgisayara karşı oynanan bir TicTacToe oyunudur.
 </br>
